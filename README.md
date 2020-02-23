@@ -1,1 +1,3 @@
-# pesto-pre-curriculum
+# Pesto Per Curriculum
+
+> Exercise to learn Test-Driven Development .
